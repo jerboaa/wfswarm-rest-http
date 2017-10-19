@@ -180,7 +180,7 @@
               <resources>
                 <labels>
                   <all>
-                    <space>wfswarm-rest-http</space>
+                    <space>osio-builder-test-wfswarm</space>
                   </all>
                 </labels>
               </resources>
