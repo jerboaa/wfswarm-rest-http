@@ -42,6 +42,7 @@
     <!-- Licenses - JBoss repo URL used in custom-settings -->
     <jboss.repo.url>https://repository.jboss.org/nexus/content/groups/public</jboss.repo.url>
     <licenses.pom.file>pom.xml</licenses.pom.file>
+    <fabric8.generator.from>docker.io/jerboaa/fabric8-openjdk8-base:0.0.3</fabric8.generator.from>
   </properties>
 
   <dependencyManagement>
