@@ -181,7 +181,7 @@
               <resources>
                 <labels>
                   <all>
-                    <space>osio-master-jenkins-test3</space>
+                    <space>osio-che-testing</space>
                   </all>
                 </labels>
               </resources>
